@@ -8,6 +8,6 @@ The Bank Management System is a Java-based project designed to streamline and ma
 4. Seamless Connectivity: Uses JDBC to establish secure communication with the SQL database.
 
 # Technologies Used:
-Programming Language: Java
-Database: MySQL
-Connectivity: JDBC (Java Database Connectivity)
+1. Programming Language: Java
+2. Database: MySQL
+3. Connectivity: JDBC (Java Database Connectivity)
